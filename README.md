@@ -1,2 +1,6 @@
-# learning-robotics-using-python
-《机器人系统设计与制作：Python语言实现》
+# 《机器人系统设计与制作：Python语言实现》
+
+## 配套资源
+
+1. 本书示例代码。
+2. 彩图。 
